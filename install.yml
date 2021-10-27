@@ -1,0 +1,6 @@
+---
+- name: mute
+  hosts: localhost
+  gather_facts: no
+  connection: local
+

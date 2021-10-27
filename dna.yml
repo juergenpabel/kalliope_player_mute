@@ -1,0 +1,11 @@
+---
+name: "mute"
+type: "player"
+author: "juergenpabel"
+
+kalliope_supported_version:
+  - 0.7
+tags:
+  - "mute"
+  - "noop"
+  - "player"
